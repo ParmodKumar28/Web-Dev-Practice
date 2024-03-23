@@ -1,0 +1,36 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/heading-tags-part-1_10880196
+
+Heading Tags - Part 1
+Easy
+40/40
+Average time to solve is 20m
+Static HTML
+Problem statement
+Heading Tags - Part 1
+
+Lets get started with Html! , Developers you have to render texts inside header tags.
+
+Welcome, developers! Your mission is to design an Html template in which the header tags will be consisting of the following content below.
+
+
+Task for students
+
+Must to have
+Inside a < h1> tag render the following text "Hello World!"
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.

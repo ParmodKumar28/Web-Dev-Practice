@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preference Settings</title>
+</head>
+<body style="text-align: center;">
+    <h2>Preference Settings Form</h2>
+
+<form action="/submit-preferences" method="post">
+
+    <!-- Write your code here -->
+    <p>
+        Choose you favourite color
+    </p>
+    <input id="favColor" value="#ff0000" type="color"/>
+    <br/>
+    <p>
+      Adjust brightness(0-100):  
+    </p>
+    <input type="range" min="0" max="100" id="brightness"/>
+    <span id="brightnessValue">50</span>
+    <br/>
+    <input type="submit" id="submit-btn"/>
+</form>
+
+</body>
+</html>

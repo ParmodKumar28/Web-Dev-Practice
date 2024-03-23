@@ -1,0 +1,44 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/animation-part-2_11137858?leftPanelTabValue=PROBLEM
+
+Animation - Part 2
+Hard
+120/120
+Average time to solve is 60m
+CSS effects
+Problem statement
+Animation - Part 2
+
+Lets get started with CSS, Animations using CSS (@keyframes) without making the use of javascript.
+
+Welcome, developers! You can cause movements in the html template by using animations in CSS.
+
+
+Task for students
+
+Must to have
+#animatedElement contains 'slideRight' as animation name and takes 4s to ease-in-out . Use this "slideRight 4s ease-in-out infinite alternate".
+At the 0% keyframe, the element should start at its original position.
+At the 50% keyframe, the element should scale by 1.5 times and rotate 45 degrees.
+At the 100% keyframe, the element should move to the right edge of the viewport, considering its own width to avoid overflowing the screen. Use this "transform: translateX(calc(100vw - 100px))"
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!
+

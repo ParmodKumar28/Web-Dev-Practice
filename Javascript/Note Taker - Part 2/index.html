@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Note Taking App</title>
+    <style>
+
+
+    </style>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app">
+        <input type="text" id="noteTitle" placeholder="Note Title">
+        <textarea id="noteContent" placeholder="Note Content"></textarea>
+        <button onclick="saveNote()">Save Note</button>
+        <button onclick="deleteNote()">Delete Note</button>
+        <button onclick="clearAllNotes()">Clear All Notes</button>
+        <input type="text" id="search" placeholder="Search notes..." onkeyup="searchNotes()">
+        <div id="notesList"></div>
+    </div>
+    <template id="noteTemplate">
+        <div class="note">
+            <input type="checkbox" class="note-checkbox">
+            <h3 class="note-title"></h3>
+            <p class="note-content" id="wrap-it"></p>
+            <hr>
+        </div>
+    </template>
+    
+    <script>
+   
+
+
+
+
+
+
+    </script>
+    <script src="script.js"></script>
+</body>
+
+</html>

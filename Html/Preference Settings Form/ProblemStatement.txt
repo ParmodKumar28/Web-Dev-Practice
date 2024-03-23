@@ -1,0 +1,49 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/preference-settings-form_10924088?leftPanelTabValue=PROBLEM
+
+Preference Settings Form
+Hard
+120/120
+Average time to solve is 60m
+Interactive HTML
+Problem statement
+Preference Settings Form
+
+Design a user-friendly webpage for customizing preferences, featuring options to select a favorite color, adjust brightness, and submit the chosen settings
+
+Welcome, developers! Your task is to create a web page presenting a preference settings form that allows users to choose their favorite color, adjust brightness, and submit their preferences.
+
+
+Task for students
+
+Must to have
+The id of the input of the favourite color, should be "favColor" and value attribute should be "#ff0000".
+The id of the range slider should be "brightness" and min value in the slider should be '0' and max value should be '100'.
+After the brightness range slider we have written the initial range, you also have to mention the intial range and the range should be 50 initially. The initial should be inside span tag and the id of the span tag should be "brightnessValue".
+The id of the Submit button should be "submit-btn".
+Functionality tested
+Color input should be created with default value.
+Range input should be created with correct attributes.
+Brightness value should display correctly.
+Submit button should be created.
+Form should attempt to submit on clicking the submit button.
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your typing test project!
+

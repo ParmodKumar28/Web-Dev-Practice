@@ -1,0 +1,59 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/calculator-javascript_8966782?leftPanelTabValue=PROBLEM
+
+Calculator - Part 3
+Hard
+120/120
+Average time to solve is 60m
+Static HTML
+Structured HTML
+CSS styling
+CSS effects
+JS logic & basics
+JS DOM & events
+Problem statement
+Calculator - Part 3
+
+Unleash Your Creativity , Calculate with ease: Your solution is just a click away!.
+
+Welcome, developers! Your task is to build a cutting-edge calculator application that revolutionizes the way calculations are done. Design a sleek, intuitive interface combined with intelligent features, enabling users to perform complex calculations with ease, accuracy, and unparalleled efficiency.
+
+
+Task for students
+
+Must to have
+Input Buttons should trigger 'appendToDisplay' function when clicked 1,2,3,4,5,6,7,8,9,0,÷,x,.,-,+ (In this problem we just want to test that the buttons are correctly aligned with the function)
+There should be clear button denoted by C and have the function called "clearDisplay"
+There should be a function named "calculate" on the = button.
+Display type of buttons should be grid , padding should 10px , gap should be 10 px
+Width of the calculator should be 320px and the border radius should be 10px
+Display width should be 90% of the calculator's width , padding should 0.5 rem
+A function named "appendToDisplay"
+A function named "clearDisplay"
+A function named "calculate"
+Functionality tested
+appendToDisplay should successfully append the value to the display
+clearDisplay should successfully clear the display
+calculate should successfully calculate the expression correctly
+appedToDisplay and calculate should handle errors correctly and give error in form of 'Error' in case of incomplete math expression
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Calculator!
+

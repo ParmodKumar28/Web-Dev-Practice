@@ -1,0 +1,62 @@
+/* Write your desired css here */
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 10px;
+    width: 350px;
+    box-shadow: 0 0 20px 2px lightgrey;
+    border-radius: 10px;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+}
+
+input[type="text"],[type="password"]{
+    width: 80%;
+    padding: 8px;
+    border-radius: 10px;
+    color: grey;
+}
+
+#btn{
+    width: 100%;
+    background-color: red;
+    color: white;
+    border-radius: 6px;
+    padding: 6px;
+    border: none;
+}
+
+#btn:hover{
+    background-color: blue;
+}
+
+#cancelbtn{
+    width: 100px;
+    padding: 6px;
+    color: black;
+    background-color: grey;
+}
+
+#wrapper{
+    margin: auto;
+    padding: 8px;
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+.psw a{
+    cursor: pointer;
+}

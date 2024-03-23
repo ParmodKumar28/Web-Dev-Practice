@@ -1,0 +1,48 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/login-form-part-1_10708318?leftPanelTabValue=PROBLEM
+
+Login Form - Part 1
+Easy
+0/40
+Average time to solve is 20m
+Interactive HTML
+CSS styling
+JS DOM & events
+Problem statement
+Login Form - Part 1
+
+Enhancing the User Experience and Security of a Custom Login Page.
+
+Welcome, developers! Your task is to create a login page that involves addressing potential usability issues, such as ensuring input validation and responsive design.
+
+
+Task for students
+
+Must to have
+The id of the Name input box should be "name".
+The id of the Email input box should be "email".
+The id of the Password input box should be "pass".
+The id of the Submit button should be "btn" and type of the Submit button should be "submit".
+Functionality tested
+Submit the data on clicking submit button.
+When you click on Submit button, there should be an alert "Form submitted successfully.".
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your login from!
+

@@ -1,0 +1,39 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/repeating-linear-gradient_11006172?leftPanelTabValue=PROBLEM
+
+Repeating Linear Gradient
+Hard
+120/120
+Average time to solve is 60m
+CSS effects
+Problem statement
+Repeating Linear Gradient
+
+Unleash Your Creativity! , Craft a CSS gradient blending colors seamlessly, exploring various styles for a striking, professional web aesthetic .
+
+Welcome, developers! Your task is to create CSS gradient . Focus on using CSS to blend colors smoothly, experimenting with various gradients. Aim for an eye-catching and professional look that enhances user experience.
+
+
+Task for students
+
+Must to have
+The div with class 'repeating-linear-gradient' should have its color starting from orange to brown repeatedly from left to right with a padding of 10px on both orange and brown stripes.
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!
+

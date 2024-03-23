@@ -1,0 +1,47 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/making-list-part-1_10924084?leftPanelTabValue=PROBLEM
+
+Making List - Part 2
+Easy
+40/40
+Average time to solve is 20m
+Structured HTML
+Problem statement
+Making List - Part 2
+
+Design a webpage showcasing different types of list.
+
+Welcome, developers! Your task is to create a web page to display a categorized list of favorite foods, covering Chinese, North Indian, and South Indian cuisines.
+
+
+Task for students
+
+Must to have
+The id of unordered list that is representing the chinese food, should have id "chinese"(Ex - '< ul id = "chinese">< /ul>').
+The id of ordered list that is representing the north indian food, should have id "northIndian".
+The id of descriptive list that is representing the south indian food, should have id "southIndian".
+Make sure that the count of list inside the ordered and unordered list should be 3.
+Make sure that the count of descriptions in descriptive list should be 2.
+Functionality tested
+Chinese food list (ul) should have the correct number of items i.e. 3.
+North Indian food list (ol) should have the correct number of items i.e. 3.
+South Indian food list (dl) should have the correct number of descriptions i.e. 2.
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your typing test project!

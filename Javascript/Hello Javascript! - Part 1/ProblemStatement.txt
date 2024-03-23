@@ -1,0 +1,41 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/hello-javascript-part-1_10949978?leftPanelTabValue=PROBLEM
+
+Hello Javascript! - Part 1
+Easy
+40/40
+Average time to solve is 20m
+JS DOM & events
+Problem statement
+Hello Javascript! - Part 1
+
+Lets get started with JS DOM! , Developers you will have to dynamically change the initial content.
+
+Welcome, developers! Your mission is to design an Html template in which you will have to dynamically change the content inside of Div using javscript , avoid manually changing the content.
+
+
+Task for students
+
+Must to have
+There should be a Div with id as "demo" and should have the content as "Initial Content"
+Functionality tested
+Using javscript you have to change the initial content inside of the div from "Initial Content" to "Hello Javascript! (avoid using innerText)"
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!
+

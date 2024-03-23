@@ -1,0 +1,49 @@
+Problem Link :- https://www.codingninjas.com/studio/problems/note-taking-app-display-note_9216273
+
+Note Taker - Part 2
+Hard
+0/120
+Average time to solve is 60m
+Static HTML
+Structured HTML
+JS logic & basics
+JS DOM & events
+Problem statement
+Note Taker - Part 2
+
+Unleash Your Creativity , Capture Your Thoughts Effortlessly: A Note-Taking App That Merges Simplicity with Powerful Organization Tools to Elevate Your Ideas and Enhance Productivity.
+
+Welcome, developers! Your mission is to create an innovative note-taking app that stands out for its user-friendly interface and functionality. This app should offer a seamless and intuitive experience, allowing users to effortlessly jot down, organize, and access their notes. The design must be sleek and contemporary, aligning perfectly with modern usability standards. Ensure the app is responsive, providing a consistent and efficient experience across various devices and screen sizes. Your goal is to craft an app that not only stores thoughts but also inspires creativity and boosts productivity.
+
+
+Task for students
+
+Must to have
+The button should trigger a function named "saveNote".
+Functionality tested
+Use the localstorage for storing the notes with the name of "notes" (The notes added should be stored in Localstorage named as "notes")
+saveNote function should add the the particular note in the localstorage with the of "notes"
+For each note thats been added should have title and content, that should be stored in localstorage as well.
+A function named displayNotes should display the note from the localstorage to the templete
+The title of the notes should be rendering at the class "note-title" and content of notes should be rendering at the class "note-content"
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!

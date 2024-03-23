@@ -1,0 +1,59 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/artticle-making-css_8955202?leftPanelTabValue=PROBLEM
+
+Article Making - Part 2
+Moderate
+80/80
+Average time to solve is 40m
+Static HTML
+CSS styling
+Problem statement
+Article Making - Part 2
+
+Unleash Your Creativity, Streamline Your Thoughts: Discover the Art of Efficient Article Making with Our Advanced Writing Tool.
+
+Welcome, developers! Your mission is to design an innovative article-making tool that streamlines the writing process, offering intuitive interfaces and smart features to aid users in crafting engaging and high-quality content efficiently.
+
+
+Task for students
+
+Must to have
+Change the webpage title to "Article" within the < title> tag in the < head> section.
+Inside container-article, create these divs:.
+< div> with class article-title.
+< div> with class article-description.
+< div> with class article-img-container.
+< div> with class article-content.
+Inside article-title, add an < h1> element for the title and the title should be "Airport"
+Inside article-description, add an < h3> element for the description.
+Inside article-img-container, add an < img> element. Set src to image path and provide alt.
+Inside article-content, add a < p> element for the article content.
+Change the color of the article title to crimson.
+Apply a bolder font weight to the title.
+Center align the article title without using the < center> tag..
+Modify the color of the article description to blueviolet.
+Center align the article description without using the < center> tag.
+Set the width of the article-img-container class to exactly 50% of the screen width.
+Adjust the width of the article-content class to exactly 80% of the screen width.
+Add a 1px border to the article content.
+Apply a padding of 0.5rem to the article content.
+Set the background color of the article content to lightsalmon.
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Article Making!
+

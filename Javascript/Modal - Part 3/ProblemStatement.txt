@@ -1,0 +1,47 @@
+Problem Link :- https://www.codingninjas.com/studio/problems/modal-close-with-click-in-window_9171458
+
+Modal - Part 3
+Moderate
+0/80
+Average time to solve is 40m
+JS logic & basics
+JS DOM & events
+Problem statement
+Modal - Part 3
+
+Unleash Your Creativity ,Craft an elegant, responsive modal popup that seamlessly integrates into your website, enhancing user engagement with its sleek design and smooth animations!.
+
+Welcome, developers! Your task is to develop a captivating modal popup for a website. This modal should serve as an engaging interface element, appearing upon user interaction, such as a button click. The design should be clean and modern, integrating seamlessly into the website's overall theme. It should feature responsive design to adapt smoothly across different devices and screen sizes..
+
+
+Task for students
+
+Must to have
+A button with id "openModalBtn"
+A div for modal with id "myModal"
+A span for cross with id "closeModalBtn"
+Functionality tested
+When the user clicks on the button, the modal should open
+When the user clicks on the cross , should close model
+When the user clicks outside of the modal, the modal should close
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Modal!

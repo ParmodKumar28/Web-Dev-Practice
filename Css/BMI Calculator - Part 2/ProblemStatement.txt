@@ -1,0 +1,55 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/bmi-calculator-part-2_10999911?leftPanelTabValue=PROBLEM
+
+BMI Calculator - Part 2
+Moderate
+80/80
+Average time to solve is 40m
+Static HTML
+Structured HTML
+CSS styling
+CSS effects
+Problem statement
+BMI Calculator - Part 2
+
+Unleash Your Creativity! , Maintaining good BMI to maintain good health , create a BMI calculator that takes your height and weight and gives you the calculated BMI .
+
+Welcome, developers! Your mission is to design a BMI (Body mass index) calculator that allows users to find their BMI just by inputing their height (cm) and weight (kg).
+
+
+Task for students
+
+Must to have
+Title tag should exist and contain the word 'BMI Calculator'
+Inside the body there should be a parent div with id 'bmiCalculator'
+Inside the parent div with id as 'bmiCalculator' there should be an h2 tag with content 'BMI Calculator'
+Inside the parent div with id as 'bmiCalculator' there should be a div with class as 'weight-input'
+Inside the parent div with id as 'bmiCalculator' there should be a div with class as 'height-input'
+Inside the parent div with id as 'bmiCalculator' there should be a button with content as 'Calculate BMI'
+Inside the parent div with id as 'bmiCalculator' there should be a div with id as 'result'
+Inside the div with class 'weight-input' there should be label with the for attribute as 'weight', content in it as 'Weight (kg):' and below this label there should be an input with type as number , id as weight and placeholder as 'Weight in kilograms'.
+Inside the div with class 'height-input' there should be label with the for attribute as 'height' , content in it as 'Height (cm):' and below this label there should be an input with type as number , id as height and placeholder as 'Height in centimeters'.
+Button should trigger 'calculateBMI' function when clicked
+Div that contains id as result should be left empty
+Div container with the id 'bmiCalculator' should the width of 300px , padding of 20px , a black border of 1px thickness and a border radius of 5px
+The button should have have the background color of green , the text 'Calculate BMI' in the button should be of white color , Border radius should be 5px and the cursor should become pointer when on it
+On hovering the background color of the button should become red
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!
+

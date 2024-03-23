@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Expense Tracker</title>
+    <style>
+   
+
+    </style>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="expense-tracker">
+        <div class="input-area">
+            <input type="text" id="expenseName" placeholder="Expense Name">
+            <input type="number" id="amount" placeholder="Amount">
+            <input type="date" id="date">
+            <button id="addExpense" onclick="addExpense()">Add Expense</button>
+        </div>
+        <ul id="expenseList"></ul>
+        <div class="total">Total Expenses: $<span id="totalAmount">0</span></div>
+
+        <!-- Template for expenses (hidden by default) -->
+        <template id="expenseTemplate">
+            <li>
+                <span class="expense-name"></span> - $<span class="expense-amount"></span> on <span class="expense-date"></span>
+                <button onclick="removeExpense(event)">Remove</button>
+            </li>
+        </template>
+    </div>
+    <script>
+
+
+
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,40 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/table-part-2_10996633
+
+Table - Part 2
+Easy
+40/40
+Average time to solve is 20m
+Structured HTML
+Problem statement
+Table - Part 2
+
+Lets get started with Html! , Developers you have to make a table which is a part of html basics.
+
+Welcome, developers! Your mission is to design an Html template in which you have to create a table with the following content in it given below.
+
+
+Task for students
+
+Must to have
+There should be header row in which there will be the headers of a table with "Header 1" in first column , "Header 2" in second column , "Header 3" in third column
+There should be a row in which there will be the data cells of a table with "one" in first column , "two" in second column , "three" in third column
+There should be another row in which there will be the data cells of a table with "four" in first column , "five" in second column , "six" in third column
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!

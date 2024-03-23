@@ -1,0 +1,43 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/array-manupilation-even-numbers_9013572?leftPanelTabValue=PROBLEM
+
+Array Manipulation Even Numbers
+Moderate
+80/80
+Average time to solve is 40m
+JS logic & basics
+Problem statement
+Array Manipulation Even Numbers
+
+Unleash Your Creativity , Design an app that skillfully filters even numbers from arrays, offering a simple yet powerful tool for efficient data analysis!.
+
+Welcome, developers! Your task is to develop an innovative application specifically designed to filter even numbers from an array. Envision a robust, efficient interface that seamlessly processes arrays, accurately identifying and extracting all even numbers. This application should not only perform with exceptional precision but also provide a user-friendly experience, enabling users to effortlessly input, analyze, and understand the patterns within their data sets. Aim to create a tool that is both practical for mathematical operations and educational, enhancing the user's understanding of numerical sequences and data analysis.
+
+
+Task for students
+
+Must to have
+A function named "filterEvenNumbers"
+Functionality tested
+filterEvenNumbers function should give all the even numbers from the array of numbers (note :- The filtered numbers should be enclosed in [ ] brackets and seperated by comma and a space , like in the UI reference)
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Array Manipulation Even Numbers!
+

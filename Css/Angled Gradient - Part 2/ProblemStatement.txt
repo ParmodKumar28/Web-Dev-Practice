@@ -1,0 +1,40 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/angled-gradient-part-2_11006169?leftPanelTabValue=PROBLEM
+
+Angled Gradient - Part 2
+Hard
+120/120
+Average time to solve is 60m
+CSS effects
+Problem statement
+Angled Gradient - Part 2
+
+Unleash Your Creativity! , Craft a CSS gradient blending colors seamlessly, exploring various styles for a striking, professional web aesthetic .
+
+Welcome, developers! Your task is to create CSS gradient . Focus on using CSS to blend colors smoothly, experimenting with various gradients. Aim for an eye-catching and professional look that enhances user experience.
+
+
+Task for students
+
+Must to have
+The div with class 'angled-gradient' should have its color turning from purple to pink at an angle of 45 degree.
+The div with class 'angled-gradient-percentage' should have its color turning from purple to pink at an angle of 45 degree . But the purple should exactly cover the first 50% of the area and pink should cover the other 50%.
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!
+

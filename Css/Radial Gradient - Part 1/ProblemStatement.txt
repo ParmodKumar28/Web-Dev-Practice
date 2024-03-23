@@ -1,0 +1,39 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/radial-gradient-part-1_11006165?leftPanelTabValue=PROBLEM
+
+Radial Gradient - Part 1
+Moderate
+80/80
+Average time to solve is 40m
+CSS effects
+Problem statement
+Radial Gradient - Part 1
+
+Unleash Your Creativity! , Craft a CSS gradient blending colors seamlessly, exploring various styles for a striking, professional web aesthetic .
+
+Welcome, developers! Your task is to create CSS gradient . Focus on using CSS to blend colors smoothly, experimenting with various gradients. Aim for an eye-catching and professional look that enhances user experience.
+
+
+Task for students
+
+Must to have
+The div with class 'radial-gradient' should have its color turning from blue to green starting from the center. No need to add any percentage of blue and green.
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!
+

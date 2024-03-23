@@ -1,0 +1,46 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/celsius-to-fahrenheit_8958289?leftPanelTabValue=PROBLEM
+
+Celsius To Fahrenheit - Part 1
+Easy
+40/40
+Average time to solve is 20m
+Static HTML
+Structured HTML
+Problem statement
+Celsius To Fahrenheit - Part 1
+
+Unleash Your Creativity , Convert with ease: From Celsius to Fahrenheit, at the tap of a button!.
+
+Welcome, developers! Your challenge is to create a groundbreaking Celsius to Fahrenheit converter app that redefines simplicity and efficiency. Craft an interface that's not only user-friendly but also smart and intuitive, empowering users to effortlessly convert temperatures with precision and ease.
+
+
+Task for students
+
+Must to have
+Ensure that the < title> tag consist of 'Temperature Converter'
+Within the 'container', you should have the following elements:
+An < h1> element that contains the content 'Temperature Converter'.
+An < input> element with the correct attributes:
+id set to 'celsius'. - type set to 'number' , placeholder as 'Enter Celsius temperature' and step as 1.
+A < button> element with the content 'Convert'. This button should trigger the 'convertTemperature' function when clicked. Conversion of the tempreture in this function is not neccessary in this problem just make sure the the function can be triggered through the button
+A < p> element with the class 'result' and an id of 'result'. This element should be initially empty..
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Celsius To Fahrenheit!
+

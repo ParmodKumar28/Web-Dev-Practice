@@ -1,0 +1,39 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/video-tag_11006201
+
+Video Tag
+Easy
+40/40
+Average time to solve is 20m
+Static HTML
+Problem statement
+Video Tag
+
+Lets get started with Html! , Developers you have to play a video using video tag.
+
+Welcome, developers! Your mission is to design an Html template in which you will have to render a video by adding a video link in video tag.
+
+
+Task for students
+
+Must to have
+The video tag should play the video 'https://files.codingninjas.in/pexels-marta-nogueira-17360472-1080p-1705647435.mp4' and have the type as mp4.
+Controls should be enabled in the video
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!

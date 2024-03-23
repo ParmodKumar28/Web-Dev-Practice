@@ -1,0 +1,43 @@
+.expense-tracker {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.input-area {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.input-area input {
+    flex: 1;
+    margin-right: 10px;
+    padding: 5px;
+}
+
+.input-area button {
+    padding: 5px 15px;
+}
+
+#expenseList li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+}
+
+#expenseList button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.total {
+    margin-top: 20px;
+    font-weight: bold;
+}

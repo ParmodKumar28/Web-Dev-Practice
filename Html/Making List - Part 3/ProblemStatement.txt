@@ -1,0 +1,48 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/making-list-part-2_10924085?leftPanelTabValue=PROBLEM
+
+Making List - Part 3
+Moderate
+80/80
+Average time to solve is 40m
+Structured HTML
+Problem statement
+Making List - Part 3
+
+Design a webpage showcasing list starting with different characters.
+
+Welcome, developers! Your task is to create a list that should show abnormal behaviour of starting countdown.
+
+
+Task for students
+
+Must to have
+You have to create 3 ordered lists.
+First ordered list should be displayed in numeric form but should start with '2'.
+Second ordered list should be displayed in roman form but the roman count should start with 'V'.
+Second ordered list should be displayed in uppercase roman numerals.
+Third ordered list should be displayed in the form of alphabet characters but characters should start with 'W'.
+Third ordered list should be displayed in uppercase characters.
+Functionality tested
+First ordered list should start with 2
+Second ordered list should use Roman numerals and start with 5.
+Third ordered list should use uppercase letters and start with 23.
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your typing test project!

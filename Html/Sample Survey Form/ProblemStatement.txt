@@ -1,0 +1,56 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/preference-settings-form_10924087?leftPanelTabValue=PROBLEM
+
+Sample Survey Form
+Moderate
+80/80
+Average time to solve is 40m
+Interactive HTML
+Problem statement
+Sample Survey Form
+
+Design a user-friendly webpage for customize survey form.
+
+Welcome, developers! Your task is to create a web page presenting a survey that contains different options like name, review, gender, hobbies etc.
+
+
+Task for students
+
+Must to have
+The id of the input of the name should be "name".
+The id of the input of the textarea should be "feedback".
+The id of the input of the male option in Gender should be "male".
+The id of the input of the female option in Gender should be "female".
+The id of the input of the first hobby option in Your Hobbies section, should be "hobby1".
+The id of the input of the second hobby option in Your Hobbies section, should be "hobby2".
+The id of the input of the third hobby option in Your Hobbies section, should be "hobby3".
+The id of the select tag that is creating dropdown ultimately, should be "country".
+The id of the Submit button should be "submit-btn".
+Functionality tested
+Radio buttons for gender should be created correctly.
+Checkboxes for hobbies should be created correctly.
+Dropdown for country should be created correctly.
+Name input should be created correctly.
+Textarea for feedback should be created correctly.
+Submit button should be created.
+Form should attempt to submit on clicking the submit button.
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your typing test project!
+

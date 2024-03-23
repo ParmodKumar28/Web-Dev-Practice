@@ -1,0 +1,45 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/counter-app-part-2_10708323?leftPanelTabValue=PROBLEM
+
+Counter App - Part 2
+Moderate
+80/80
+Average time to solve is 40m
+JS logic & basics
+JS DOM & events
+Problem statement
+Counter App - Part 2
+
+Optimizing the Usability and Functionality of a Web-Based Counter Application.
+
+Welcome, developers! Your task is to create a counter app project that focuses on enhancing a simple yet interactive web-based counter application, ensuring it is intuitive, responsive, and foolproof for users.
+
+
+Task for students
+
+Must to have
+The id of the Increase should be "increase".
+The id of the Decrease should be "decrease".
+Functionality tested
+Increase button should increase the counter by 1 everytime.
+Decrease button should decrease the counter by 1 everytime.
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your counter app project!
+

@@ -1,0 +1,9 @@
+        .container {
+            display: flex;
+            flex-direction: row;
+        }
+        .container-flex {
+            width: 50%;
+            height: 200px;
+            border: 5px solid black;
+        }

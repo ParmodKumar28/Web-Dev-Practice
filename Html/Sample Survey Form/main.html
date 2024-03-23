@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survery Form</title>
+</head>
+<body>
+    <h2>Sample Survey Form</h2>
+
+<form action="/submit-your-response">
+
+    <!-- Write your code here -->
+    <label for="name">Name: </label>
+    <br>
+    <input id="name"/>
+    <br/>
+<!--      -->
+    <label for="feedback">Feedback: </label>
+    <br/>
+    <textarea id="feedback"></textarea>
+    <br/>
+    <br/>
+<!--      -->
+    <label for="genderSelect">Gender: </label>
+    <br/>
+    <label>
+         <input type="radio" id="male" value="male"/>
+        Male
+    </label>
+    <br/>
+    <label>
+        <input type="radio" id="female" value="female">
+        Female
+    </label>
+    <br/>
+<br/>
+<!--      -->
+        <label for="hobbies-section">Hobbies: </label>
+    <br/>
+    <label>
+         <input type="checkbox" id="hobby1"/>
+        Reading
+    </label>
+    <br/>
+        <label>
+         <input type="checkbox" id="hobby2"/>
+        Gardening
+    </label>
+    <br/>
+        <label>
+         <input type="checkbox" id="hobby3"/>
+        Gaming
+    </label>
+    <br/>
+    <br/>
+<!--      -->
+    <label for="country">Country: </label>
+    <br/>
+    <select id="country">
+        <option>India</option>
+        <option>US</option>
+        <option>Dubai</option>
+        <option>UK</option>
+        <option>Russia</option>
+    </select>
+    <br/>
+    <br/>
+<!--      -->
+    
+    <button id="submit-btn">
+        Submit
+    </button>
+    
+</form>
+</body>
+</html>

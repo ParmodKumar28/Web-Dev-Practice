@@ -1,0 +1,48 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/container-styling-part-4_10929464?leftPanelTabValue=PROBLEM
+
+Container Styling - Part 4
+Moderate
+80/80
+Average time to solve is 40m
+CSS styling
+CSS effects
+Problem statement
+Container Styling - Part 4
+
+Lets get started with CSS! , Developers you have to do some styling around Div.
+
+Welcome, developers! Your mission is to design an Html template in which you will have to do some styling on the given div container.
+
+
+Task for students
+
+Must to have
+The div with the class as container should have a width of 50%
+The div with the class as container should have a height of 200px
+The div with the class as container should have a border of 1px and the color of the border should be black
+The body should have background color of coral
+The div with the class as container should have a background color of aqua
+The div with the class as container should become blueviolet on hover
+The div with the class as container should rotate 180 degrees on hover
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!
+

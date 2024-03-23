@@ -1,0 +1,48 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/todolist-addtask_9013569?leftPanelTabValue=PROBLEM
+
+TodoList - Part 2
+Hard
+120/120
+Average time to solve is 60m
+Static HTML
+Structured HTML
+JS logic & basics
+JS DOM & events
+Problem statement
+TodoList - Part 2
+
+Unleash Your Creativity , Build a to-do app that's intuitively designed and feature-rich, transforming task management into an effortlessly organized experience!.
+
+Welcome, developers! Your mission is to create an innovative to-do application that redefines task management. Design an elegant, user-friendly interface integrated with smart functionalities, enabling users to organize, track, and complete their tasks with unmatched simplicity and effectiveness. This application should empower users to boost their productivity, provide insightful progress reports, and adapt to their unique workflow, making every day more organized and goal-oriented.
+
+
+Task for students
+
+Must to have
+A function named "addTask"
+A function named "removeTask" (which will be dynamically rendered in each list when you add them)
+Functionality tested
+Function addTask should add the task in the list, The list should dynamically create < li> as parent and < span> as child (Creates a new list item (< li>) for each task, containing a < span> element displaying the task name.)
+Function removeTask should remove the specific task (make use of this < span>${taskText}< /span> < button onclick="removeTask(this)">Remove< /button>)
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your TodoList!
+

@@ -1,0 +1,43 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/array-manupilation-filters-prime-numbers_9027994?leftPanelTabValue=PROBLEM
+
+Array Manipulation Prime Numbers
+Moderate
+80/80
+Average time to solve is 40m
+JS logic & basics
+Problem statement
+Array Manipulation Prime Numbers
+
+Unleash Your Creativity ,Create an app that adeptly filters prime numbers from arrays, offering a seamless and educational experience in prime number detection!.
+
+Welcome, developers! Your challenge is to craft an innovative application dedicated to filtering prime numbers from a given set of data. Imagine a sophisticated, intuitive interface that skillfully isolates prime numbers, presenting users with precise and swift results. This application should not only be a powerhouse in detecting primes but also a platform for interactive learning, facilitating user engagement through simple data entry and enlightening insights into number theory. Your goal is to build a tool that is both a vital resource for mathematical computations and a catalyst for deepening the understanding of prime numbers and their unique properties.
+
+
+Task for students
+
+Must to have
+A function named "filterPrimes"
+Functionality tested
+filterPrimes function filters prime numbers from the array of numbers (note :- The filtered numbers should be enclosed in [ ] brackets and seperated by comma and a space , like in the UI reference)
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Array Manipulation Prime Numbers!
+

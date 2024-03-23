@@ -1,0 +1,51 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/carousal-previous-button_9098803?leftPanelTabValue=PROBLEM
+
+Carousel - Part 3
+Moderate
+80/80
+Average time to solve is 40m
+JS logic & basics
+JS DOM & events
+Problem statement
+Carousel - Part 3
+
+Unleash Your Creativity , Create an eco-friendly, customizable carousel with interactive elements, ensuring safety and accessibility for a universal, enchanting experience.!.
+
+Welcome, developers! Your goal is to create a modern carousel that combines classic appeal with innovative features for an immersive experience. Key aspects include artistically crafted animal figures and ornate carriages with interactive sound and light effects. Use sustainable materials and energy. The scalable design should fit different settings like parks or events, focusing on safety and accessibility for all.
+
+
+Task for students
+
+Must to have
+Inside of the div "imgcontainer" there should be img tag with id "carouselImg"
+There Should be button with id as "nextbtn" and should trigger a function named "nextImg"
+There Should be button with id as "prevBtn" and should trigger a function named "previousImg"
+A function named "updateImage" in the script file
+A function named "nextImg" in the script file
+A function named "previousImg" in the script file
+Functionality tested
+A function named "updateImage" should be responsible for making sure the carousel initially renders the image which is at the 0 index of array with multiple images for the carousel
+A function named "nextImg" should make sure that when its triggered it changes the current image from index 0 to 1 and than to 2 if triggered again.
+A function named "previousImg" should make sure that when its triggered it changes the image from index 1 to 0 and than to the last index image if triggered again.
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Carousel!
+

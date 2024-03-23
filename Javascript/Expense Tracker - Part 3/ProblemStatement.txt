@@ -1,0 +1,56 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/expense-tracker-remove-expense_9173602
+
+Expense Tracker - Part 3
+Ninja
+0/200
+Average time to solve is 90m
+JS logic & basics
+JS DOM & events
+Problem statement
+Expense Tracker - Part 3
+
+Unleash Your Creativity , Develop a cutting-edge Expense Tracker app that combines simplicity, smart analytics, and user-friendly design to transform personal finance management!.
+
+Welcome, developers! Your mission is to design an exceptional Expense Tracker application that revolutionizes the way users manage their finances. Envision an interface that embodies the epitome of user-friendliness, coupled with intelligent and intuitive features. This app should empower users to track their expenses and income with unparalleled ease and accuracy. Strive to create a solution that simplifies budgeting, offers insightful financial overviews, and encourages responsible spending habits, all while maintaining a sleek and engaging user experience.
+
+
+Task for students
+
+Must to have
+Should have an input tag with type as text , id as "expenseName".
+Should have an input tag with type as number , id as "amount".
+Should have an input tag with type as date , id as "date".
+Should have a button tag with id as "addExpense".
+The button should trigger a function named "addExpense".
+A function named "displayExpenses".
+The button with contect Remove should trigger a function named "removeExpense".
+Functionality tested
+Use the localstorage for storing the expense with the name of "expenses" (The Expenses added should be stored in Localstorage named as "expenses")
+addExpense function should add the the particular expense in the localstorage with the of "expenses"
+For each expense thats been added should have name , amount , date and id as the Date.now()
+The function named "displayExpenses" should be display the expense from the localstorage to the < li>
+The function named "removeExpense" should remove the particular expense
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your Expense Tracker!
+
+
+

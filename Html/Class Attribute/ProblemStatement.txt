@@ -1,0 +1,38 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/class-attribute_10966440
+
+Class Attribute
+Easy
+40/40
+Average time to solve is 20m
+Static HTML
+Problem statement
+Class Attribute
+
+Lets get started with class attribute in html , as it will be very much useful while using CSS and Javascript.
+
+Welcome, developers! We want you to place class attribute in the tag below.
+
+
+Task for students
+
+Must to have
+Make sure the < h3> tag has a class as "student"
+
+UI reference
+Use the given provided code and try to mirror the UI.
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers!

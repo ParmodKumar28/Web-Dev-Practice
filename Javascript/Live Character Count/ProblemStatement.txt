@@ -1,0 +1,44 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/live-character-count_9256741?leftPanelTabValue=PROBLEM
+
+Live Character Count
+Easy
+0/40
+Average time to solve is 20m
+Static HTML
+CSS styling
+JS DOM & events
+Problem statement
+Live Character Count
+
+Effortlessly track your text input in real-time with our sleek, live character count tool - no spaces, no hassle!
+
+Welcome, developers! Your task is to create a web application that dynamically counts the number of characters, including spaces, as you type. The application should update the character count automatically with each keystroke.
+
+
+Task for students
+
+Must to have
+The id of the texarea should be "textInput".
+Functionality tested
+Accurately counting the characters live, including spaces.
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your character count project!
+

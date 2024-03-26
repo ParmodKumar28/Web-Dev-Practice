@@ -1,0 +1,48 @@
+Problem Link:- https://www.codingninjas.com/studio/problems/analog-clock_10180816?leftPanelTabValue=PROBLEM
+
+Countdown Timer - Part 1
+Easy
+0/40
+Average time to solve is 20m
+Structured HTML
+CSS styling
+JS DOM & events
+JS async
+Problem statement
+Countdown Timer - Part 1
+
+Time is precious, and so is your focus—track both with our sleek countdown timer.
+
+Welcome, developers! Your task is to create a user-friendly countdown timer that offers a visual and accurate representation of time remaining, helping users stay on top of their deadlines and efficiently manage their day-to-day activities.
+
+
+Task for students
+
+Must to have
+The id of representing countdown timer should be "countdown".
+The id of the start button should be "startButton".
+You have to put '1' minute timer in the countdown.
+Functionality tested
+Timer should start when start button is clicked.
+Time should update every second when it is running.
+
+UI reference & demo
+Use the given provided code and try to mirror the UI.
+
+
+Evaluation
+After submission, your solution will be evaluated automatically based on the tasks defined above.
+Upon successful completion of all the tasks/requirements, you will get a full score, and there will not be any partial scoring.
+You can work on your failed test cases & resubmit your solution.
+Your problem will get evaluated instantly.
+
+Do’s & don’t
+Use the given code structure in editor and do not make any changes.
+Do not modify existing classes or tags.
+Focus on correct HTML structure and class names.
+
+Query & feedback
+In case of any query/feedback on this project, please fill this form & we will soon get in touch with you to resolve.
+
+Best of luck, developers! We are eager to see your countdown timer!
+
